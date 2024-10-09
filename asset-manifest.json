@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/multi-step-form-assesment/static/css/main.f855e6bc.css",
+    "main.js": "/multi-step-form-assesment/static/js/main.fffe92fe.js",
+    "static/js/453.1679c441.chunk.js": "/multi-step-form-assesment/static/js/453.1679c441.chunk.js",
+    "static/media/redux.cjs": "/multi-step-form-assesment/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "index.html": "/multi-step-form-assesment/index.html",
+    "main.f855e6bc.css.map": "/multi-step-form-assesment/static/css/main.f855e6bc.css.map",
+    "main.fffe92fe.js.map": "/multi-step-form-assesment/static/js/main.fffe92fe.js.map",
+    "453.1679c441.chunk.js.map": "/multi-step-form-assesment/static/js/453.1679c441.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.fffe92fe.js"
+  ]
+}
